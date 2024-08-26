@@ -26,6 +26,9 @@ Open the browser’s developer console (F12) to check for any errors and debug t
 
 File Structure
 index.html: The main HTML file for the login form.
+
 style.css: The CSS file responsible for styling the login form and background.
+
 script.js: The JavaScript file for adding interactivity to the login form.
+
 README.md: This file, containing instructions on how to set up and customize the project.
